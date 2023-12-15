@@ -58,15 +58,25 @@ Press the switches for inputs “A” and “B”. The switch is ON state when 1
 If the output is 1, then the bulb glows.
 Check all the gates following the same procedure.
 Program:
-/*
-Program to verify the truth table in quartus for the basic logic gates using Verilog programming.
-Developed by: 
-RegisterNumber:  
-*/
-Logic symbol & Truthtable
-RTL realization
-Output:
-RTL
 
-Result:
+Program to verify the truth table in quartus for the basic logic gates using Verilog programming.
+Developed by: SURESH S
+RegisterNumber:  23008233
+
+![all gate code sir]![image]![image](https://github.com/Suresh-2006/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/149347611/d69359d4-1c27-4893-962f-9a9824e2625b)
+
+
+# Logic symbol & Truthtable:
+![Screenshot 2023-11-26 095451]![image](https://github.com/Suresh-2006/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/149347611/e0183596-6aff-4b7e-b1de-ec3fd4f77c6d)
+
+
+# RTL realization:
+![image](https://github.com/Suresh-2006/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/149347611/714792b6-f5fa-485a-b29d-77df1231bc92)
+
+
+# Output:
+![image](https://github.com/Suresh-2006/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/149347611/58e4eb10-174d-4e87-810a-801c84695b07)
+
+
+# Result:
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
